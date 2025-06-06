@@ -51,7 +51,7 @@ CALCULATE(
 ## 📊 Visuals in the Dashboard
 
 ### 🔹 KPI Cards:
-- **Total Global Sales** (8,811.97 M)
+- **Total Global Sales** (8,811.97)
 - **Total Games** (16K)
 - **Top Publisher** (Nintendo)
 - **Most Popular Genre** (Action)
